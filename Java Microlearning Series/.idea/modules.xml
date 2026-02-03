@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_Microlearning_Series.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_Microlearning_Series.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/String Immutability/Challenge/Java_Microlearning_Series.String_Immutability-Challenge.iml" filepath="$PROJECT_DIR$/.idea/modules/String Immutability/Challenge/Java_Microlearning_Series.String_Immutability-Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/String Immutability/Challenge/Java_Microlearning_Series.String_Immutability-Challenge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/String Immutability/Challenge/Java_Microlearning_Series.String_Immutability-Challenge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/String Immutability/Challenge/Java_Microlearning_Series.String_Immutability-Challenge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/String Immutability/Challenge/Java_Microlearning_Series.String_Immutability-Challenge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/String Immutability/Exercises/Java_Microlearning_Series.String_Immutability-Exercises.iml" filepath="$PROJECT_DIR$/.idea/modules/String Immutability/Exercises/Java_Microlearning_Series.String_Immutability-Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/String Immutability/Exercises/Java_Microlearning_Series.String_Immutability-Exercises.main.iml" filepath="$PROJECT_DIR$/.idea/modules/String Immutability/Exercises/Java_Microlearning_Series.String_Immutability-Exercises.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/String Immutability/Exercises/Java_Microlearning_Series.String_Immutability-Exercises.test.iml" filepath="$PROJECT_DIR$/.idea/modules/String Immutability/Exercises/Java_Microlearning_Series.String_Immutability-Exercises.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/String Immutability/Theory/Java_Microlearning_Series.String_Immutability-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/String Immutability/Theory/Java_Microlearning_Series.String_Immutability-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/String Immutability/Theory/Java_Microlearning_Series.String_Immutability-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/String Immutability/Theory/Java_Microlearning_Series.String_Immutability-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/String Immutability/Theory/Java_Microlearning_Series.String_Immutability-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/String Immutability/Theory/Java_Microlearning_Series.String_Immutability-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/String Immutability/Try It/Java_Microlearning_Series.String_Immutability-Try_It.iml" filepath="$PROJECT_DIR$/.idea/modules/String Immutability/Try It/Java_Microlearning_Series.String_Immutability-Try_It.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/String Immutability/Try It/Java_Microlearning_Series.String_Immutability-Try_It.main.iml" filepath="$PROJECT_DIR$/.idea/modules/String Immutability/Try It/Java_Microlearning_Series.String_Immutability-Try_It.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/String Immutability/Try It/Java_Microlearning_Series.String_Immutability-Try_It.test.iml" filepath="$PROJECT_DIR$/.idea/modules/String Immutability/Try It/Java_Microlearning_Series.String_Immutability-Try_It.test.iml" />
+    </modules>
+  </component>
+</project>

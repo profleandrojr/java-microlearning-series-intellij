@@ -1,0 +1,21 @@
+type: marketplace
+title: Java Microlearning Series
+language: English
+summary: |
+  Java Microlearning Series is a collection of short, concept-driven lessons designed to build strong mental models in Java.
+
+  Each lesson focuses on a single core concept and is structured as a microlecture followed by practical tasks that gradually increase in depth. The goal is not memorization, but understanding how Java works under the hood.
+
+  This course is ideal for beginners, self-taught developers, and educators who want clear explanations, real code examples, and exercises that reinforce fundamental Java concepts.
+vendor:
+  name: Profleandrojr
+programming_language: Java
+content:
+  - String Immutability
+environment_settings:
+  jvm_language_level: JDK_17
+additional_files:
+  - name: build.gradle
+  - name: settings.gradle
+  - name: gradle/wrapper/gradle-wrapper.properties
+yaml_version: 5
